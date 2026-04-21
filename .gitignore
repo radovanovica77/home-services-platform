@@ -3,3 +3,4 @@ bin/
 obj/
 *.user
 *.suo
+backend/WebProdavnica.API/appsettings.json 
